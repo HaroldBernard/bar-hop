@@ -308,6 +308,21 @@ class App extends Component {
       hours: "11am - 11pm",
       rating:"4.5",
       yelp: "https://www.yelp.com/biz/yards-brewing-company-philadelphia-3"
+    },
+    {
+      name: "Harold's Hometown",
+      latitude: 33.354614,
+      longtitude: -111.852108,
+      type: "Home",
+      hint1: "Why can't I get drinks here?!",
+      hint2: "Harold was born and raised here",
+      image: "https://geo3.ggpht.com/cbk?panoid=imxL3x3dzVcByzEwD08PmQ&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=240&yaw=15.412781&pitch=0&thumbfov=100",
+      street:"614 W. Straford Dr.",
+      cityZip:"Chandler, AZ 85224",
+      googleMaps:"https://www.google.com/maps/place/614+W+Straford+Dr,+Chandler,+AZ+85225/@33.3546199,-111.8543662,17z/data=!3m1!4b1!4m5!3m4!1s0x872ba9d48c60e92f:0x6db5268b4aa0e24b!8m2!3d33.3546154!4d-111.8521775",
+      hours: "M 12am T 12am W 12am Th 12am F 12am S 12am Su 12am",
+      rating:"5",
+      yelp: "https://www.yelp.com/search?find_desc=614+w.+straford+dr&find_loc=Chandler%2C+AZ&ns=1"
     }
   ],
     Userlong: "",
